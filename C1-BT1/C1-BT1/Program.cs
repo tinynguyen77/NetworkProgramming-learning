@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Net;
-class AddressSample
+
+internal class AddressSample
 {
     public static void Main()
     {
