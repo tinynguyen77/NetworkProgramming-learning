@@ -14,3 +14,11 @@ F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-lear
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1-BT1\C3-BT3\obj\Debug\net5.0\ref\C3-BT3.dll
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1-BT1\C3-BT3\obj\Debug\net5.0\C3-BT3.pdb
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1-BT1\C3-BT3\obj\Debug\net5.0\C3-BT3.genruntimeconfig.cache
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C3-BT3\obj\Debug\net5.0\C3-BT3.csproj.AssemblyReference.cache
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C3-BT3\obj\Debug\net5.0\C3-BT3.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C3-BT3\obj\Debug\net5.0\C3-BT3.AssemblyInfoInputs.cache
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C3-BT3\obj\Debug\net5.0\C3-BT3.AssemblyInfo.cs
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C3-BT3\obj\Debug\net5.0\C3-BT3.csproj.CoreCompileInputs.cache
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C3-BT3\obj\Debug\net5.0\C3-BT3.dll
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C3-BT3\obj\Debug\net5.0\ref\C3-BT3.dll
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C3-BT3\obj\Debug\net5.0\C3-BT3.pdb
