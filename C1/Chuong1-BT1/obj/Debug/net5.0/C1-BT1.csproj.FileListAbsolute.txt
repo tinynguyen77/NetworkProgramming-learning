@@ -22,3 +22,11 @@ F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-lear
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.dll
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\ref\C1-BT1.dll
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.pdb
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.exe
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.deps.json
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.runtimeconfig.json
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.runtimeconfig.dev.json
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.dll
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\ref\C1-BT1.dll
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.pdb
+F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.genruntimeconfig.cache
