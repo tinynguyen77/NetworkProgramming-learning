@@ -26,5 +26,6 @@ internal class AddressSample
         Console.WriteLine("Broadcast address: {0}", test3.ToString());
         Console.WriteLine("The ANY address is: {0}", test4.ToString());
         Console.WriteLine("The NONE address is: {0}", test5.ToString());
+        console.WriteLine("Hello, world");
     }
 }
