@@ -10,8 +10,4 @@
     <Compile Remove="Program.cs" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="Program.cs" />
-  </ItemGroup>
-
 </Project>

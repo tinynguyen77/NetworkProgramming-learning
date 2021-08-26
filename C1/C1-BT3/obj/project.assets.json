@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NHANNG-Learning\\Lập trình mạng\\HOMEWORK PROJECTS\\NetworkProgramming-learning\\C1\\C1-BT3\\C1-BT3.csproj",
+      "projectUniqueName": "F:\\NHANNG-Learning\\NETWORK PROGRAMMINGG\\HOMEWORK PROJECTS\\NetworkProgramming-learning\\C1\\C1-BT3\\C1-BT3.csproj",
       "projectName": "C1-BT3",
-      "projectPath": "F:\\NHANNG-Learning\\Lập trình mạng\\HOMEWORK PROJECTS\\NetworkProgramming-learning\\C1\\C1-BT3\\C1-BT3.csproj",
+      "projectPath": "F:\\NHANNG-Learning\\NETWORK PROGRAMMINGG\\HOMEWORK PROJECTS\\NetworkProgramming-learning\\C1\\C1-BT3\\C1-BT3.csproj",
       "packagesPath": "C:\\Users\\nhant\\.nuget\\packages\\",
-      "outputPath": "F:\\NHANNG-Learning\\Lập trình mạng\\HOMEWORK PROJECTS\\NetworkProgramming-learning\\C1\\C1-BT3\\obj\\",
+      "outputPath": "F:\\NHANNG-Learning\\NETWORK PROGRAMMINGG\\HOMEWORK PROJECTS\\NetworkProgramming-learning\\C1\\C1-BT3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

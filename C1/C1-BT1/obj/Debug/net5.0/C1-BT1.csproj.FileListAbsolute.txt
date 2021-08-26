@@ -30,3 +30,19 @@ F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-lear
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\ref\C1-BT1.dll
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.pdb
 F:\NHANNG-Learning\Lập trình mạng\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.genruntimeconfig.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.exe
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.deps.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.runtimeconfig.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.runtimeconfig.dev.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\ref\C1-BT1.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\bin\Debug\net5.0\C1-BT1.pdb
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.csproj.AssemblyReference.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.AssemblyInfoInputs.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.AssemblyInfo.cs
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.csproj.CoreCompileInputs.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\ref\C1-BT1.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.pdb
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT1\obj\Debug\net5.0\C1-BT1.genruntimeconfig.cache
