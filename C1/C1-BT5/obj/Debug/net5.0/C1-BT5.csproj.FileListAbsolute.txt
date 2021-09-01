@@ -1,0 +1,15 @@
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\bin\Debug\net5.0\C1-BT5.exe
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\bin\Debug\net5.0\C1-BT5.deps.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\bin\Debug\net5.0\C1-BT5.runtimeconfig.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\bin\Debug\net5.0\C1-BT5.runtimeconfig.dev.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\bin\Debug\net5.0\C1-BT5.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\bin\Debug\net5.0\ref\C1-BT5.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\bin\Debug\net5.0\C1-BT5.pdb
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\obj\Debug\net5.0\C1-BT5.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\obj\Debug\net5.0\C1-BT5.AssemblyInfoInputs.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\obj\Debug\net5.0\C1-BT5.AssemblyInfo.cs
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\obj\Debug\net5.0\C1-BT5.csproj.CoreCompileInputs.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\obj\Debug\net5.0\C1-BT5.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\obj\Debug\net5.0\ref\C1-BT5.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\obj\Debug\net5.0\C1-BT5.pdb
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT5\obj\Debug\net5.0\C1-BT5.genruntimeconfig.cache
