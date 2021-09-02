@@ -19,8 +19,8 @@ class GetResolveInfo
         // in ra thông tin hostname của iphe
         foreach (string alias in iphe.Aliases)
         {
-            Console.WriteLine("Alias: {0}", iphe.Aliases);
-            // in ra định danh của iphe
+            Console.WriteLine("Alias: {0}", alias);
+            // in ra bí danh của iphe
         }
         foreach (IPAddress address in iphe.AddressList)
         {

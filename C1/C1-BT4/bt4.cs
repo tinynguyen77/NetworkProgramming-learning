@@ -18,7 +18,7 @@ class GetDNSHostInfo
         foreach (string alias in results.Aliases)
         {
             Console.WriteLine("Alias: {0}", alias);
-            // xuất ra định danh của đối tượng 
+            // xuất ra bí danh của đối tượng 
         }
         foreach (IPAddress address in results.AddressList)
         {
