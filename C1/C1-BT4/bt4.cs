@@ -4,7 +4,7 @@ class GetDNSHostInfo
 {
     public static void Main(string[] argv)
     {
-        if (argv.Length != 1) 
+        if (argv.Length != 1)
         {
             Console.WriteLine("Usage: GetDNSHostInfo hostname");
             return;
@@ -22,7 +22,7 @@ class GetDNSHostInfo
         }
         foreach (IPAddress address in results.AddressList)
         {
-            Console.WriteLine("Address: {0}",address.ToString()); 
+            Console.WriteLine("Address: {0}", address.ToString());
             // xuất ra màn hình địa chỉ IP dạng chuỗi
         }
     }

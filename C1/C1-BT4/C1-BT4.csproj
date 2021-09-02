@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>C1_BT4</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bt4.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bt4.cs" />
+  </ItemGroup>
+
+</Project>
