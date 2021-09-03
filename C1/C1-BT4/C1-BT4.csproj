@@ -3,18 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>C1_BT4</RootNamespace>
   </PropertyGroup>
 
-<<<<<<< HEAD
-=======
-  <ItemGroup>
-    <Compile Remove="bt4.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="bt4.cs" />
-  </ItemGroup>
-
->>>>>>> 2fa32c721c663bebead717c739edadf6405e19c3
 </Project>

@@ -24,8 +24,8 @@ class SimpleTcpSrvr
         // khởi tạo socket client bên phía server để giao tiếp với client
         IPEndPoint clientep = (IPEndPoint)client.RemoteEndPoint;
         // khởi tạo dối tượng clientep là IPEndPoint và kết nối tới socket client
-        Console.WriteLine("Welcome to my test server");
-        
+        Console.WriteLine("Connected with {0} at port {1}", clientep.Address, clientep.Port);
+        string welcome = ("Welcome to my test server");
         data = Encoding.ASCII.GetBytes(welcome);
         client.Send(data, data.Length, SocketFlags.None);
         // gửi toàn bộ data
