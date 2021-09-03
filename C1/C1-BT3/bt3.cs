@@ -19,5 +19,6 @@ class SockProp
         IPEndPoint iep = (IPEndPoint)test.LocalEndPoint;
         Console.WriteLine("Local EndPoint: {0}", iep.ToString());
         test.Close();
+        //comment bay ba thoi
     }
 }

@@ -1,0 +1,16 @@
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\C2bt1.csproj.AssemblyReference.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\C2bt1.GeneratedMSBuildEditorConfig.editorconfig
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\C2bt1.AssemblyInfoInputs.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\C2bt1.AssemblyInfo.cs
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\C2bt1.csproj.CoreCompileInputs.cache
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\bin\Debug\net5.0\C2bt1.exe
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\bin\Debug\net5.0\C2bt1.deps.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\bin\Debug\net5.0\C2bt1.runtimeconfig.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\bin\Debug\net5.0\C2bt1.runtimeconfig.dev.json
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\bin\Debug\net5.0\C2bt1.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\bin\Debug\net5.0\ref\C2bt1.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\bin\Debug\net5.0\C2bt1.pdb
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\C2bt1.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\ref\C2bt1.dll
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\C2bt1.pdb
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1\obj\Debug\net5.0\C2bt1.genruntimeconfig.cache
