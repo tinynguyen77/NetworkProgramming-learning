@@ -13,3 +13,7 @@ F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-lea
 F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT4\obj\Debug\net5.0\ref\C1-BT4.dll
 F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT4\obj\Debug\net5.0\C1-BT4.pdb
 F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT4\obj\Debug\net5.0\C1-BT4.genruntimeconfig.cache
+<<<<<<< HEAD
+=======
+F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C1\C1-BT4\obj\Debug\net5.0\C1-BT4.csproj.AssemblyReference.cache
+>>>>>>> 2fa32c721c663bebead717c739edadf6405e19c3

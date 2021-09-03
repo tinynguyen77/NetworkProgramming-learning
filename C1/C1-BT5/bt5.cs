@@ -20,7 +20,11 @@ class GetResolveInfo
         foreach (string alias in iphe.Aliases)
         {
             Console.WriteLine("Alias: {0}", alias);
+<<<<<<< HEAD
             // in ra định danh của iphe
+=======
+            // in ra bí danh của iphe
+>>>>>>> 2fa32c721c663bebead717c739edadf6405e19c3
         }
         foreach (IPAddress address in iphe.AddressList)
         {

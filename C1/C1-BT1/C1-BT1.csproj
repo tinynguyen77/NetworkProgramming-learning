@@ -6,4 +6,12 @@
     <RootNamespace>C1_BT1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="bt1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bt1.cs" />
+  </ItemGroup>
+
 </Project>
