@@ -1,0 +1,16 @@
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\C2bt31.csproj.AssemblyReference.cache
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\C2bt31.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\C2bt31.AssemblyInfoInputs.cache
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\C2bt31.AssemblyInfo.cs
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\C2bt31.csproj.CoreCompileInputs.cache
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\bin\Debug\net5.0\C2bt31.exe
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\bin\Debug\net5.0\C2bt31.deps.json
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\bin\Debug\net5.0\C2bt31.runtimeconfig.json
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\bin\Debug\net5.0\C2bt31.runtimeconfig.dev.json
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\bin\Debug\net5.0\C2bt31.dll
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\bin\Debug\net5.0\ref\C2bt31.dll
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\bin\Debug\net5.0\C2bt31.pdb
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\C2bt31.dll
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\ref\C2bt31.dll
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\C2bt31.pdb
+F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt31\obj\Debug\net5.0\C2bt31.genruntimeconfig.cache
