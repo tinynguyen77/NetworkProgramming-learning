@@ -5,13 +5,13 @@ class GetDNSHostInfo
 {
     public static void Main(string[] argv)
     {
-        //if (argv.Length != 1)
-        //{ 
-        //    Console.WriteLine("Usage: GetDNSHostInfo hostname");
-        //    return;
-        //}
+        if (argv.Length != 1)
+        {
+            Console.WriteLine("Usage: GetDNSHostInfo hostname");
+            return;
+        }
 
-        IPHostEntry results = Dns.GetHostEntry("www.hackerrank.com");
+        IPHostEntry results = Dns.GetHostEntry(argv[0]);
         Console.WriteLine("Host name: {0}", results.HostName);
 
         foreach (string alias in results.Aliases)
