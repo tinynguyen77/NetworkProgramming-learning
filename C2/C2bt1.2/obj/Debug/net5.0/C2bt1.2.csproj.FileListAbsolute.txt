@@ -13,19 +13,3 @@ F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-lea
 F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\ref\C2bt1.2.dll
 F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.pdb
 F:\NHANNG-Learning\NETWORK PROGRAMMINGG\HOMEWORK PROJECTS\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.genruntimeconfig.cache
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\bin\Debug\net5.0\C2bt1.2.exe
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\bin\Debug\net5.0\C2bt1.2.deps.json
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\bin\Debug\net5.0\C2bt1.2.runtimeconfig.json
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\bin\Debug\net5.0\C2bt1.2.runtimeconfig.dev.json
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\bin\Debug\net5.0\C2bt1.2.dll
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\bin\Debug\net5.0\ref\C2bt1.2.dll
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\bin\Debug\net5.0\C2bt1.2.pdb
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.csproj.AssemblyReference.cache
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.GeneratedMSBuildEditorConfig.editorconfig
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.AssemblyInfoInputs.cache
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.AssemblyInfo.cs
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.csproj.CoreCompileInputs.cache
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.dll
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\ref\C2bt1.2.dll
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.pdb
-F:\Source\Repos\tinynguyen77\NetworkProgramming-learning\C2\C2bt1.2\obj\Debug\net5.0\C2bt1.2.genruntimeconfig.cache
