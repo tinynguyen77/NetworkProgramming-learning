@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C2RControlClient/1.0.0": {
+        "dependencies": {
+          "C2RControlSrv": "1.0.0"
+        },
+        "runtime": {
+          "C2RControlClient.dll": {}
+        }
+      },
+      "C2RControlSrv/1.0.0": {
+        "runtime": {
+          "C2RControlSrv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C2RControlClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C2RControlSrv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
