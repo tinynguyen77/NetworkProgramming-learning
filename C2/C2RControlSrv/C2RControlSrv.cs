@@ -12,14 +12,14 @@ class RemoteControlSrvr
         IPEndPoint ipep = new IPEndPoint(IPAddress.Any, 9050);
         // tạo IPendpoint ipep có giá trị là IP bất kỳ chấp nhận port 9050
         Socket newsock = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-        // tạo socket
+        // tạo socket để kết nối đến client
         newsock.Bind(ipep);
         // truyền ipendpoint cho socket
         Console.WriteLine("Waiting for a client...");
         IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
         // tạo IPendpoint để gửi dữ liệu có giá trị là IP bất kỳ chấp nhận port 0
-        EndPoint Remote = (EndPoint)(sender);
-        // endpoint remote từ client kết nối tới sender
+        EndPoint Remote = (EndPoint)sender;
+        // sender chấp nhận các kết nối từ endpoint Remote 
         recv = newsock.ReceiveFrom(data, ref Remote);
         // ReceiveFrom(Byte[], EndPoint)
         // nhận dữ liệu từ Remote và lưu trữ vào data
@@ -31,7 +31,7 @@ class RemoteControlSrvr
         data = Encoding.ASCII.GetBytes(welcome);
         // gán welcome đã convert thành dạng byte vào data
         newsock.SendTo(data, data.Length, SocketFlags.None, Remote);
-        // socket gửi tất cả dữ liệu trong data ở dạng byte sang endpoint của Remote
+        // socket gửi tất cả dữ liệu trong data ở dạng byte qua client thông qua Remote
         while (true)
         {
             string input = Console.ReadLine();
@@ -41,6 +41,7 @@ class RemoteControlSrvr
             if (input == "exit")
                 break;
         }
+        // nếu nhập exit thì break vòng lặp, xuất ra màn hình dòng dưới rồi đóng socket
         Console.WriteLine("Stopping client");
         newsock.Close();
     }
