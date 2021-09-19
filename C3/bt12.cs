@@ -19,7 +19,7 @@ class SimpleUdpClient
         // convert welcome thành dạng byte rồi gán vào mảng data
         server.SendTo(data, data.Length, SocketFlags.None, ipep);
         // Gửi dữ liệu trong data bắt đầu từ vị trí đc chỉ định trong mảng,
-        // đến endpoint được chỉ định (ipep)s
+        // đến endpoint được chỉ định (ipep)
         IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
         // tạo IPendpoint sender chứa địa chỉ ip bất kì chấp nhận port 0
         EndPoint Remote = (EndPoint)sender;

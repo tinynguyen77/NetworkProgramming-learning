@@ -43,7 +43,9 @@ class BadUdpClient
             recv = server.ReceiveFrom(data, ref tmpRemote);
             // nhận dữ liệu từ server rồi lưu trong mảng data, gán vào recv, lưu lại thông tin tmpRemote
             stringData = Encoding.ASCII.GetString(data, 0, recv);
+            // convert dữ liệu dạng byte trong recv sang dạng chuỗi rồi gán vào stringData
             Console.WriteLine(stringData);
+            // xuất ra màn hình
         }
         // nếu vòng lặp bị break thì xuất dòng dưới rồi đóng socket
         Console.WriteLine("Stopping client");
