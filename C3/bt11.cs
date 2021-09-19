@@ -18,7 +18,7 @@ class SimpleUdpSvr
         // gán ipendpoint vào socket
         Console.WriteLine("Waiting for a client...");
         IPEndPoint Remote = (EndPoint) (sender);
-        // khởi tạo đối tượng EndPoint lưu trữ địa chỉ sender
+        // khởi tạo đối tượng IPEndPoint lưu trữ địa chỉ sender
         rev = newsock.ReceiveFrom(data, ref Remote);
         // lưu lại endpoint của client, dữ liệu nhận từ client  đc đưa vào mảng data, gán cho rev
         Console.WriteLine("Message received from {0}: ", Remote.ToString());
