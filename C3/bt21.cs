@@ -3,36 +3,51 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-class OddUdpSvr
+class OddUdpClient
 {
     public static void Main()
     {
-        int recv;
         byte[] data = new byte[1024];
-        IPEndPoint ipep = new IPEndPoint(IPAddress.Any, 9050);
-        Socket newsock = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-        newsock.Bind(ipep);
-        Console.WriteLine("Waiting for client...");
-        IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
-        EndPoint Remote = (EndPoint)(sender);
-        recv = newsock.ReceiveFrom(data, ref Remote);
-        Console.WriteLine("Messenger received form {0}:", Remote.ToString());
-        Console.WriteLine(Encoding.ASCII.GetString(data, 0, recv));
-        string welcome = "Welcome to my test server";
+        // tạo mảng chứa dữ liệu dạng byte
+        string input, stringData;
+        IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9050);
+        // tạo ipendpoint = 127.0.0.1:9050
+        Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
+        // tạo socket để kết nối đến server
+        server.Connect(ipep);
+        // socket thiết lập kết nối tới ipep 
+        string welcome = "Hello, are you there?";
         data = Encoding.ASCII.GetBytes(welcome);
-        newsock.SendTo(data, data.Length, SocketFlags.None, Remote);
+        // convert chuỗi welcome thành dạng byte rồi gán vào mảng data
+        server.Send(data);
+        // gửi dữ liệu đến socket đã kết nối
+        data = new byte[1024];
+        // làm mới mảng
+        int recv = server.Receive(data);
+        // nhận dữ liệu từ một socket bị ràng buộc, gán dữ liệu vào recv
+        Console.WriteLine("Message received from {0}:", ipep.ToString());
+        // xuất ra màn hình ipep dạng chuỗi
+        Console.WriteLine(Encoding.ASCII.GetString(data, 0, recv));
+        // xuất ra màn hình dữ liệu đã được convert qua dạng chuỗi
         while (true)
         {
+            input = Console.ReadLine();
+            // nhập từ bàn phím 
+            if (input == "exit")
+                break;
+            server.Send(Encoding.ASCII.GetBytes(input));
+            // gửi dữ liệu đã được convert thành dạng byte đến socket đã kết
             data = new byte[1024];
-            // làm mới mảng byte
-            recv = newsock.ReceiveFrom(data, ref Remote);
-            // lưu lại endpoint của client, dữ liệu nhận từ client  đc đưa vào mảng data, gán cho rev
-            Console.WriteLine(Encoding.ASCII.GetString(data, 0, recv));
-            // dữ liệu lưu trong mảng data được convert thành chuỗi rồi xuất ra 
-            newsock.SendTo(data, recv, SocketFlags.None, Remote);
-            // Gửi số byte dữ liệu được chỉ định (data) đến điểm cuối được chỉ định (Remote), 
-            // bắt đầu từ vị trí được chỉ định trong bộ đệm (rev) và sử dụng SocketFlags được chỉ định.
+            // làm mới mảng data
+            recv = server.Receive(data);
+            // nhận dữ liệu từ một socket bị ràng buộc, gán dữ liệu vào recv
+            stringData = Encoding.ASCII.GetString(data, 0, recv);
+            // convert dữ liệu thành chuỗi rồi gán vào stringData
+            Console.WriteLine(stringData);
+            // xuất ra màn hình stringData
         }
-        newsock.Close();
+        // nếu vòng lặp bị break thì xuất dòng dưới rồi đóng socket
+        Console.WriteLine("Stopping client");
+        server.Close();
     }
 }
