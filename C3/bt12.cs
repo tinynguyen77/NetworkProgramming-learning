@@ -3,11 +3,11 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-class SimpleUdpClient 
+class SimpleUdpClient
 {
-    public static void Main ()
+    public static void Main()
     {
-        byte [] data = new byte[1024];
+        byte[] data = new byte[1024];
         // tạo mảng chứa dữ liệu dạng byte
         string input, stringData;
         IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9050);
@@ -19,8 +19,10 @@ class SimpleUdpClient
         // convert welcome thành dạng byte rồi gán vào mảng data
         server.SendTo(data, data.Length, SocketFlags.None, ipep);
         // Gửi dữ liệu trong data bắt đầu từ vị trí đc chỉ định trong mảng,
-        // đến endpoint được chỉ định (ipep)
-        Endpoint Remote = (Endpoint) (sender);
+        // đến endpoint được chỉ định (ipep)s
+        IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
+        // tạo IPendpoint sender chứa địa chỉ ip bất kì chấp nhận port 0
+        EndPoint Remote = (EndPoint)sender;
         // tạo đối tượng Remote để lưu địa chỉ của sender
         data = new byte[1024];
         // làm mới mảng dữ liệu
@@ -35,7 +37,7 @@ class SimpleUdpClient
         {
             input = Console.ReadLine();
             // nhập dữ liệu từ bàn phím
-            if ( input == "exit")
+            if (input == "exit")
                 break;
             server.SendTo(Encoding.ASCII.GetBytes(input), Remote);
             // gửi dữ liệu đến server có địa chỉ đã lưu trong Remote thông qua socket
@@ -45,13 +47,13 @@ class SimpleUdpClient
             rev = server.ReceiveFrom(data, ref Remote);
             // nhận dữ liệu từ server, lưu vào mảng data rồi gán vào recv
             // lưu lại địa chỉ của server trong Remote
-            stringData = Encoding.ASCII.GetString(data, 0, recv);
+            stringData = Encoding.ASCII.GetString(data, 0, rev);
             // convert dữ liệu đã nhận thành dạng chuỗi rồi gán vào stringData
             Console.WriteLine(stringData);
             // xuất ra màn hình
         }
         // nếu vòng lặp bị break thì xuất dòng dưới rồi đóng socket
         Console.WriteLine("Stopping Client");
-        server.Close;
+        server.Close();
     }
 }
