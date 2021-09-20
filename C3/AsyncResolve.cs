@@ -22,7 +22,7 @@ namespace _Async
         }
         private void btnResolve_Click(object sender, EventArgs e)
         {
-            results.Items.Clear();
+            results.Items.Clear();  
             string addr = address.Text;
             Object state = new Object();
             Dns.BeginResolve(addr, OnResolved, state);
