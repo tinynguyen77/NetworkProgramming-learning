@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,9 +9,10 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using System.Net;
 using System.Net.Sockets;
+
 namespace RemoteControl_Client
 {
-    public partial class Form1 : Form
+    public partial class RemoteControl_Client : Form
     {
         int recv;
         int port;
@@ -20,16 +21,17 @@ namespace RemoteControl_Client
         IPAddress ip;
         IPEndPoint ipep;
         EndPoint Remote;
-        public Form1()
+        public RemoteControl_Client()
         {
             InitializeComponent();
         }
+
         void Connect()
         {
             data = new byte[1024];
-            ipep = new IPEndPoint(ip, port);
-            server = new Socket(AddressFamily.InterNetwork,SocketType.Dgram, ProtocolType.Udp);
-            server.SetSocketOption(SocketOptionLevel.Socket,SocketOptionName.ReceiveTimeout, 3000);
+            ipep = new IPEndPoint(IPAddress.Any, 9050);
+            Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
+            server.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.ReceiveTimeout, 3000);
             string welcome = "Ket noi thanh cong";
             data = Encoding.ASCII.GetBytes(welcome);
             server.SendTo(data, data.Length, SocketFlags.None, ipep);
@@ -57,7 +59,7 @@ namespace RemoteControl_Client
                         case "shutdown":
                             {
                                 data = new byte[1024];
-                                data = Encoding.ASCII.GetBytes("Message: \"" + stringData + "\" gui thanh cong."); 
+                                data = Encoding.ASCII.GetBytes("Message: \"" + stringData + "\" gui thanh cong.");
                                 server.SendTo(data, Remote);
                                 Process.Start("shutdown.exe", "-s -f -t 1");
                                 break;
@@ -109,6 +111,7 @@ namespace RemoteControl_Client
                 }
             }
         }
+
         private void btnCheck_Click(object sender, EventArgs e)
         {
             if (check_connect()) // Kiểm tra thông tin(IPAddress và port) kết nối nếu thông tin đầy đủ và hợp lệ thì kết nối.
@@ -116,6 +119,7 @@ namespace RemoteControl_Client
                 Connect();
             }
         }
+
         bool check_connect()
         {
             try
@@ -133,7 +137,7 @@ namespace RemoteControl_Client
                         {
                             MessageBox.Show("Địa chỉ IP Address không hợp lệ.", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         }
-                    else
+                        else
                         {
                             port = Int32.Parse(txtPort.Text);
                             return true;
@@ -151,5 +155,7 @@ namespace RemoteControl_Client
                 return false;
             }
         }
+
+
     }
 }

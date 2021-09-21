@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControl_Client", "RemoteControl_Client\RemoteControl_Client.csproj", "{0E9D31A6-3BBF-4AC8-ADFC-775A8E53712E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlSvrv", "RemoteControlSvrv\RemoteControlSvrv.csproj", "{FB5AE81D-E4CF-4F08-BF74-DBF8C811D07B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9D31A6-3BBF-4AC8-ADFC-775A8E53712E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9D31A6-3BBF-4AC8-ADFC-775A8E53712E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9D31A6-3BBF-4AC8-ADFC-775A8E53712E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9D31A6-3BBF-4AC8-ADFC-775A8E53712E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5AE81D-E4CF-4F08-BF74-DBF8C811D07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5AE81D-E4CF-4F08-BF74-DBF8C811D07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5AE81D-E4CF-4F08-BF74-DBF8C811D07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5AE81D-E4CF-4F08-BF74-DBF8C811D07B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D587BC-CF21-4170-948F-C6F510E7AD96}
+	EndGlobalSection
+EndGlobal
